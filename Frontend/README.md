@@ -37,7 +37,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 you can clone this project using 
-git clone https://github.com/aravind3011/Ecommerce-Mern-App-Full-Stack.git
+### `git clone https://github.com/aravind3011/Ecommerce-Mern-App-Full-Stack.git`
 
 You can use the products assests on my google drive:
 https://drive.google.com/drive/folders/1QO0P8BVMY3gntbO16mNpP1_GMjTp8f53?usp=sharing
